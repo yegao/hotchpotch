@@ -1,9 +1,9 @@
 {
   "name": "hotchpotch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The work of code  javascript will be simple, UI is more easy, can greatly enhance the efficiency of work, easy to learn",
   "main": "dist/hp.js",
-  "unpkg":"dist/hp.js",
+  "unpkg": "dist/hp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
