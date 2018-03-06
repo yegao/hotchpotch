@@ -1,6 +1,6 @@
 {
   "name": "hotchpotch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The work of code  javascript will be simple, UI is more easy, can greatly enhance the efficiency of work, easy to learn",
   "main": "dist/hp.js",
   "scripts": {
