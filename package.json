@@ -1,0 +1,27 @@
+{
+  "name": "hotchpotch",
+  "version": "1.0.0",
+  "description": "The work of code  javascript will be simple, UI is more easy, can greatly enhance the efficiency of work, easy to learn",
+  "main": "dist/hotchpotch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegao/hotchpotch.git"
+  },
+  "keywords": [
+    "hotchpotch"
+  ],
+  "author": "yegao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yegao/hotchpotch/issues"
+  },
+  "homepage": "https://github.com/yegao/hotchpotch#readme",
+  "devDependencies": {
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
+  }
+}
